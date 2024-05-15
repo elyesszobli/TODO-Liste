@@ -1,0 +1,18 @@
+{
+  "name": "todo-liste",
+  "version": "1.0.0",
+  "description": "Ce projet est une application de liste de tâches simple et facile à utiliser, créée avec HTML, CSS et JavaScript. L'application permet aux utilisateurs d'ajouter des tâches à leur liste, de les marquer comme terminées, de les supprimer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.2.11"
+  }
+}

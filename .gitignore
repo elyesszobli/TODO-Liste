@@ -1,0 +1,4 @@
+*.json
+
+# Ignore le dossier "node_modules" et tout son contenu
+node_modules/
