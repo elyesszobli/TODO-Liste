@@ -31,6 +31,7 @@ button{
     border-radius: 2px;
     margin: 0 3px;
     cursor: pointer;
+    outline: 0;
 }
 
 form input{
@@ -54,6 +55,14 @@ li {
     display: flex;
     align-items: center;
     padding: 10px 0;
+}
+
+li input {
+    flex : 1;
+}
+
+.done {
+    text-decoration: line-through;
 }
 
 p{
