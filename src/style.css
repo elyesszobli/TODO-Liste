@@ -61,7 +61,7 @@ li input {
     flex : 1;
 }
 
-.done {
+li .done + p{
     text-decoration: line-through;
 }
 
@@ -82,5 +82,5 @@ li .todo {
 }
 
 li .todo.done{
-    background: #333;
+    background: #16ba04;
 }
